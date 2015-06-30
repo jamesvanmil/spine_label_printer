@@ -1,0 +1,261 @@
+uar,Spec Col
+uarb,Spec Col
+uarbi,Spec Col|Rare Bk
+uarbl,Spec Col|Rare Bk
+uarbo,Spec Col|Rare Bk|OVERSIZE
+uarc,Spec Col
+uarco,Spec Col|OVERSIZE
+uarf,Spec Col|Fick
+uarfo,Spec Col|Fick|OVERSIZE
+uarh,Spec Col|Textbooks|Historical
+uarp,Spec Col
+uarr,Spec Col|Ref
+uarro,Spec Col|Ref|OVERSIZE
+uart,Spec Col
+uas,CAS
+uasf,CAS|Lib Office
+uasi,CAS
+uasj,CAS
+uasp,CAS
+uasr,CAS|Ref
+uasrh,CAS|Ref
+uasrt,CAS|Ref
+uast,CAS
+uasv,CAS
+uasvp,CAS
+uasvt,CAS
+ucb,
+ucba,
+ucbb,
+ucbbx,
+ucbc,
+ucbf,
+ucbg,
+ucbh,
+ucbi,
+ucbj,
+ucbjb,
+ucbjx,
+ucbo,OVERSIZE
+ucbp,
+ucbr,Ref
+ucbry,
+ucbt,
+ucbu,
+ucbuv,
+ucbv,
+ucl,class
+ucl2,class
+uclb,class|Rare Bk
+uclbo,class|Rare Bk|OVERSIZE
+ucle,class
+ucleo,class|OVERSIZE
+uclg,cl-g
+uclgf,cl-g|OVERSIZE
+uclgj,cl-g
+uclgo,cl-g|OVERSIZE
+uclj,class
+ucll,cl-Pal
+uclle,cl-Pal
+ucllo,cl-Pal|OVERSIZE
+ucln,class
+uclo,class|OVERSIZE
+uclp,class
+uclr,class|Ref
+uclre,class|Ref
+uclri,class|Ref Index
+uclro,class|Ref|OVERSIZE
+uclrs,class|Ref
+uclry,class|Ref
+uclu,class
+uclv,class
+uclw,class
+uclwx,class
+uclx,class
+uclcl-g,cl-g
+uclbcl-g,cl-g|Rare Bk
+uclbocl-g,cl-g|Rare Bk|OVERSIZE
+uclecl-g,cl-g
+ucleocl-g,cl-g
+uclgcl-g,cl-g
+uclgfcl-g,cl-g|OVERSIZE
+uclgjcl-g,cl-g
+uclgocl-g,cl-g|OVERSIZE
+ucljcl-g,cl-g
+uclncl-g,cl-g
+uclocl-g,cl-g|OVERSIZE
+uclpcl-g,cl-g
+uclrcl-g,cl-g|Ref
+uclrecl-g,cl-g|Ref
+uclricl-g,cl-g|Ref Index
+uclrocl-g,cl-g|Ref|OVERSIZE
+uclrscl-g,cl-g|Ref
+uclrycl-g,cl-g|Ref
+uclucl-g,cl-g
+uclvcl-g,cl-g
+uclwcl-g,cl-g
+uclwxcl-g,cl-g
+uclxcl-g,cl-g
+ucm,mus
+ucmc,mus
+ucmco,mus|OVERSIZE
+ucmf,mus
+ucmg,mus
+ucmj,mus
+ucmlu,mus
+ucmo,mus|OVERSIZE
+ucmp,mus
+ucmr,mus|Ref
+ucmri,mus|Ref Index
+ucmrq,mus
+ucmv,mus
+ucmvp,mus
+ucr,CECH
+ucrb,CECH
+ucrc,CECH|Child Bk
+ucrco,CECH|Child Bk|OVERSIZE
+ucrcp,CECH|Child Bk
+ucrd,CECH
+ucrdh,CECH
+ucre,CECH|Prof Ed
+ucres,CECH|ESL
+ucrf,CECH
+ucrh,CECH
+ucrj,CECH
+ucrl,CECH|Prof Ed
+ucrlc,CECH|Lit Ctr Ref
+ucrns,CECH|NASA
+ucrp,CECH
+ucrr,CECH|Ref
+ucrue,CECH|K-12|Electronic
+ucruk,CECH|K-12 MM
+ucrv,CECH
+ucrx,CECH
+ucrxh,CECH
+uda,DAAP
+udaab,DAAP
+udab,DAAP|Spec Coll
+udabo,DAAP|Spec Coll|OVERSIZE
+udae,DAAP|Elephant
+udaec,DAAP|Eames
+udaem,DAAP
+udag,DAAP
+udaj,DAAP
+udao,DAAP|OVERSIZE
+udap,DAAP
+udar,DAAP|Ref
+udare,DAAP|Ref
+udari,DAAP|Ref Index
+udaro,DAAP|Ref|OVERSIZE
+udasb,DAAP|Small Bk
+udat,DAAP
+udate,DAAP
+udato,DAAP|OVERSIZE
+udau,DAAP|Video
+udav,DAAP
+udavo,DAAP|OVERSIZE
+udavp,DAAP
+udavr,DAAP
+uel,
+uela,
+uelb,
+uelc,
+uelp,
+uelr,
+uen,CEAS
+uenc,CEAS
+uenfw,CEAS
+ueng,CEAS
+uenj,CEAS
+ueno,CEAS|OVERSIZE
+uenp,CEAS
+uenr,CEAS|Ref
+uenrc,CEAS|Ref
+uenrh,CEAS|Ref|Historical
+uenri,CEAS|Ref Index
+uenrq,CEAS
+uenry,CEAS
+uent,CEAS
+uenv,CEAS
+uenvh,CEAS
+uenvj,CEAS
+uenvp,CEAS
+uenvr,CEAS
+ugp,
+ugp2,
+ugpa,
+ugpb,Rare Bk
+ugpc,
+ugpd,
+ugpf,
+ugpg,
+ugpi,Ref Index
+ugpj,
+ugpo,OVERSIZE
+ugpp,
+ugpr,Ref
+ugprt,Ref
+ugps,
+ugpt,
+ugpu,
+ugpv,
+ugpvk,
+ugpw,
+uint,Internet|Resource
+ula,
+ulabc,
+ulabk,
+ulac,
+ulaes,RIS Office
+ulaf,Admin
+ulag,
+ulagb,
+ulagc,
+ulage,
+ulagf,
+ulagh,
+ulagm,
+ulago,OVERSIZE
+ulagp,
+ulagr,Ref
+ulagt,Ref
+ulagu,
+ulagv,
+ulagy,
+ulah,
+ulaho,OVERSIZE
+ulaht,
+ulai,
+ulak,Tech Svc
+ulal,Pres Svc
+ulam,
+ulam,
+ulamc,
+ulamg,
+ulamr,Micro|Index
+ulamv,
+ulan,
+ulao,OVERSIZE
+ulap,
+ulapf,
+ulapn,
+ulapo,OVERSIZE
+ulapr,
+ulaps,
+ulaq,
+ular,Ref
+ulara,Ref|Atlas
+ularc,Ref
+ularl,Ref
+ularo,Ref|OVERSIZE
+ularq,Ref
+ulars,Ref
+ulart,Ref
+ulave,Internet|Resource
+ulavj,
+ulavk,
+ulavm,
+ulavp,
+ulavq,
+ultdp,
+EOF
