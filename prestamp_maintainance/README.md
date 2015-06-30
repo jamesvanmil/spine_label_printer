@@ -33,6 +33,8 @@ Reload the program:
 
 ## Changelog
 
+(no longer maintained, with move to github.com)
+
   * 2013-12-10, added ucrlc stamp for CECH Literary Center Reference - dsm
   * 2013-10-07, added ucrns stamp for CECH NASA - dsm
   * 2013-05-21, added uarh stamp for Historical Textbooks - JV
